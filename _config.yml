@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "huangza_bio.png"
+  avatar           : "huangza_bio.jpg"
   name             : "Zhan ao Huang"
   #pronouns         : # example: "she/her"  
   bio              : "Lecturer of Chengdu University of Information Technology"
