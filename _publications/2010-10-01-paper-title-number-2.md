@@ -1,7 +1,9 @@
----
-title: "2022-2023"
+title: "A neural network learning algorithm for highly imbalanced data classification"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-----
-Zhan ao Huang, Yongsheng Sang, Yanan Sun, Jiancheng Lv. A neural network learning algorithm for highly imbalanced data classification,INS,2022.
+permalink: /publication/2015-10-01-paper-title-number-3
+date: 2022-10-01
+venue: 'Information Sciences'
+slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+---
