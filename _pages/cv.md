@@ -21,7 +21,7 @@ Work experience
   * Chengdu University of Information Technology
 
   
-Research Interest
+Research interest
 ======
 * Machine learning
 * Deep learning
