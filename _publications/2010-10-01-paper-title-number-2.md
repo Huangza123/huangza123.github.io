@@ -1,3 +1,4 @@
+---
 title: "A neural network learning algorithm for highly imbalanced data classification"
 collection: publications
 category: manuscripts
