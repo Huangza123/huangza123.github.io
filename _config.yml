@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Academic Site"
+title                    : "Zhan ao Huang/Personal Academic Site"
 title_separator          : "-"
 name                     : &name "Zhan ao huang"
 description              : &description "personal description"
