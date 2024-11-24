@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile_huangza.png"
   name             : "Zhan ao Huang"
-  #pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Lecturer of Chengdu University of Information Technology"
-  #location         : "Earth"
-  #employer         : "Red Brick University"
-  uri              : "https://huangzhan_ao.github.io"
+  location         : #"Earth"
+  employer         : #"Red Brick University"
+  uri              : #"https://huangzhan_ao.github.io"
   email            : "huangza@cuit.edu.cn" 
 
   # Academic websites
@@ -41,7 +41,7 @@ author:
   scopus           : # URL
 
   # Repositories and software development
-  #bitbucket        : # Username - Update with your username on the site
+  bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
   github           : #"academicpages"
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  #bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
