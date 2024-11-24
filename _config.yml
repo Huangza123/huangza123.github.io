@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my site"
+title                    : "Personal Academic Site"
 title_separator          : "-"
 name                     : &name "Zhan ao huang"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "huangza_bio.jpg"
   name             : "Zhan ao Huang"
   #pronouns         : # example: "she/her"  
   bio              : "Lecturer of Chengdu University of Information Technology"
