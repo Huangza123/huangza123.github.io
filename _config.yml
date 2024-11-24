@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhan ao Huang/Lecturer"
+title                    : "Zhan ao Huang/CUIT"
 title_separator          : "-"
 name                     : &name "Zhan ao huang"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile_huangza.png"
   name             : "Zhan ao Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Chengdu University of Information Technology"
+  bio              : "Lecturer"
   location         : "Chengdu, China"
   employer         : #"CUIT"
   uri              : #"https://huangza123.github.io"
