@@ -24,10 +24,10 @@ author:
   avatar           : "profile_huangza.png"
   name             : "Zhan ao Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer of Chengdu University of Information Technology"
-  location         : #"Earth"
-  employer         : #"Red Brick University"
-  uri              : #"https://huangzhan_ao.github.io"
+  bio              : "Lecturer"
+  location         : "Chengdu, China"
+  employer         : "Chengdu University of Information Technology"
+  uri              : "https://huangzhan_ao.github.io"
   email            : "huangza@cuit.edu.cn" 
 
   # Academic websites
