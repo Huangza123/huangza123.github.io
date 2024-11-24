@@ -48,4 +48,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for Biomedical Signal Processing and Control, 2024.
+* Reviewer for Neural Computing and Applications, 2024.
+ 
