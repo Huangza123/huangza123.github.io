@@ -1,7 +1,9 @@
 ---
-title: "Paper Title Number 2"
-permalink: /publication/2010-10-01-paper-title-number-2
-date: 2010-10-01
+title: "test111"
+collection: publications
+category: manuscripts
+permalink: /publication/2015-10-01-paper-title-number-3
+date: 2015-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
