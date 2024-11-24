@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2023: Lecturer
+* 2023-: Lecturer
   * Chengdu University of Information Technology
 
   
