@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a lecturer at School of Computer Science, Chengdu University of Information Technology. My research interests include deep learning, nerual network theory and application, and imbalanced data learning.
+I'm a lecturer of Chengdu University of Information Technology. My research interests include deep learning, nerual network theory and application, and imbalanced data learning.
