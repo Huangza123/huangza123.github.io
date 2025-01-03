@@ -40,8 +40,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
+* Reviewer for IEEE Transactions on Neural Networks and Learning Systems, 2025.
 * Reviewer for Biomedical Signal Processing and Control, 2024.
 * Reviewer for Neural Computing and Applications, 2024.
  
